@@ -1,2 +1,3 @@
-# elm
-Linear regression and classification with extreme learning machine (ELM)
+# Extreme Learning Machine
+
+[<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlr
